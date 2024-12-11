@@ -28,18 +28,6 @@ This project aims to classify barbell exercises and count repetitions using mach
 - matplotlib
 - seaborn
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Anup-Ojha/ML-based-Fitness-Tracker.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Preprocess data:
